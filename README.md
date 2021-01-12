@@ -1,7 +1,8 @@
 # ARLFC
 
 ## About
-A project to automated the All Terrain Vehicle **ATV**.
+A project to automate the All-Terrain Vehicle **ATV** with the capabilities of 
+modular systems.
 
 ## Installing
 On Terminal, run:
