@@ -15,42 +15,44 @@ Autonomous Robot
 No. | Members | Roles/Tasks |
 ------------ | ------------- | -------------
 1 | Dr Harikrishna Kulaveerasingam | 
-2. Hj. Ahmad Zamri Md Yusof
-3. Dr. Mohd Zulfahmi Mohd Yusoff
-4. Assoc. Prof. Ts. Dr. Wan Zuha Wan Hasan
-5. Prof. Ir. Dr Mohd Zainal Abidin Abd Kadir
-6. Prof Madya Dr Norhafiz Azis
-7. Prof Madya Dr Suhaidi Shafie
-8. Dr Hafiz Rashidi@Harun
-9. Dr Luthffi Idzhar Ismail
-10. Dr. Muhamad Saufi Mohd Kassim
-11. Dr. Hazreen Haizi Harith
-12. Prof. Madya Dr. Nazmi Mat Nawi
-13. Dr Mohd Nazim Mohtar
-14. Dr Nasri Sulaiman
-15. Dr. Ahmad Fikri Abdullah
+2 | Hj. Ahmad Zamri Md Yusof | 
+3 | Dr. Mohd Zulfahmi Mohd Yusoff | 
+4 | Assoc. Prof. Ts. Dr. Wan Zuha Wan Hasan | 
+5 | Prof. Ir. Dr Mohd Zainal Abidin Abd Kadir | 
+6 | Prof Madya Dr Norhafiz Azis | 
+7 | Prof Madya Dr Suhaidi Shafie | 
+8 | Dr Hafiz Rashidi@Harun | 
+9 | Dr Luthffi Idzhar Ismail | 
+10 | Dr. Muhamad Saufi Mohd Kassim | 
+11 | Dr. Hazreen Haizi Harith | 
+12 | Prof. Madya Dr. Nazmi Mat Nawi | 
+13 | Dr Mohd Nazim Mohtar | 
+14 | Dr Nasri Sulaiman | 
+15 | Dr. Ahmad Fikri Abdullah | 
 
-16. Alireza Ahmadi
-17. Ahmed Fareed Japar
-18. Muhammad Nasih Ulwan Abd Wahab
-19. Ahmad Afiq Mustaqim Mohd Radzi
-20. Muhammad Syahir Bin Zamasry
-21. Muhammad Farhan Mustafa
-22. Mohd Ruzaimi Mohd Ariffin
-23. Hassan Qassim
-24. Postgraduate
-25. Postgraduate
-26. Postgraduate
-27. Postgraduate
-28. Postgraduate
-29. Postgraduate
-30. Postgraduate
-31. Postgraduate
-32. Postgraduate
-33. Postgraduate
+16 | Alireza Ahmadi | 
+17 | Ahmed Fareed Japar | 
+18 | Muhammad Nasih Ulwan Abd Wahab | 
+19 | Ahmad Afiq Mustaqim Mohd Radzi | 
+20 | Muhammad Syahir Bin Zamasry | 
+21 | Muhammad Farhan Mustafa | 
+22 | Mohd Ruzaimi Mohd Ariffin | 
+23 | Hassan Qassim | 
+24 | Postgraduate | 
+25 | Postgraduate | 
+26 | Postgraduate | 
+27 | Postgraduate | 
+28 | Postgraduate | 
+29 | Postgraduate | 
+30 | Postgraduate | 
+31 | Postgraduate | 
+32 | Postgraduate | 
+33 | Postgraduate | 
 
 ### External
-34. Khairul Izwan Kamsani
+No. | Members | Roles/Tasks |
+------------ | ------------- | -------------
+34 | Khairul Izwan Kamsani | 
 
 Collector (Loose Fruit) | Grabber (Fresh Fruit Bunch) | Fertilizer | Harvester
 ------------ | ------------- | ------------- | -------------
