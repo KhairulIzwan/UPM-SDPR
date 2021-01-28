@@ -29,7 +29,6 @@ No. | Members | Roles/Tasks |
 13 | Dr Mohd Nazim Mohtar | 
 14 | Dr Nasri Sulaiman | 
 15 | Dr. Ahmad Fikri Abdullah | 
-
 16 | Alireza Ahmadi | 
 17 | Ahmed Fareed Japar | 
 18 | Muhammad Nasih Ulwan Abd Wahab | 
