@@ -14,7 +14,7 @@ Autonomous Robot
 ### UPM-SDPR
 No. | Members | Roles/Tasks |
 ------------ | ------------- | -------------
-1. Dr Harikrishna Kulaveerasingam
+1. | Dr Harikrishna Kulaveerasingam | 
 2. Hj. Ahmad Zamri Md Yusof
 3. Dr. Mohd Zulfahmi Mohd Yusoff
 4. Assoc. Prof. Ts. Dr. Wan Zuha Wan Hasan
