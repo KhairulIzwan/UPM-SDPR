@@ -1,4 +1,5 @@
 # ARLFC
+Autonomous Robot Of Loose Fruit Collector
 
 ## About
 A project to automate the All-Terrain Vehicle **ATV** with the capabilities of 
