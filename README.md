@@ -53,11 +53,13 @@ No. | Members | Roles/Tasks |
 ------------ | ------------- | -------------
 34 | Khairul Izwan Kamsani | 
 
-Collector (Loose Fruit) | Grabber (Fresh Fruit Bunch) | Fertilizer | Harvester
------------- | ------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2
-Content in the first column | Content in the second column | Content in the second column | Content in the second column
-
+## Robot Components
+Components |Collector (Loose Fruit) | Grabber (Fresh Fruit Bunch) | Fertilizer | Harvester
+------------ | ------------ | ------------- | ------------- | -------------
+Human-Robot Interaction |Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2
+Visual Perception |Content in the first column | Content in the second column | Content in the second column | Content in the second column
+Autonomous Navigation |Content in the first column | Content in the second column | Content in the second column | Content in the second column
+AI, Machine Learning, Cloud Computing, Big Data |Content in the first column | Content in the second column | Content in the second column | Content in the second column
 ## References
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
 2. [Why Honda Developed an Autonomous ATV - CES 2019](https://www.youtube.com/watch?v=k09CF7F-KrY&ab_channel=AutolineNetwork)
