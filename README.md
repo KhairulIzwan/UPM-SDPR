@@ -59,6 +59,7 @@ Autonomous Navigation |ID? | ID? | ID? | ID?
 AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 
 ## References
+### Autonomous
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
 2. [Why Honda Developed an Autonomous ATV - CES 2019](https://www.youtube.com/watch?v=k09CF7F-KrY&ab_channel=AutolineNetwork)
 3. [Configurable control zone software for the RC12-10 controller](https://www.youtube.com/watch?v=aHdKZtTBqj0&ab_channel=BoschRexrothUS)
@@ -70,7 +71,13 @@ AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 8. [(Part 3): This is how I created a self driving vehicle using Ai and Python](https://www.youtube.com/watch?v=n0RhimFSIDw&ab_channel=SieuweElferink)
 9. [SIEUWE.EU](https://www.sieuwe.eu/)
 10. [How You Can Make a Fully Autonomous Self Driving Vehicle With Ai, Python and a Camera on a Budget](https://www.instructables.com/How-You-Can-Make-a-Fully-Autonomous-Self-Driving-V/)
+
+### CAN (Control Area Networks)
 11. [Car to Arduino Communication: CAN Bus Sniffing and Broadcasting With Arduino](https://www.instructables.com/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/)
 12. [Data Exchange On The CAN Bus I](http://www.volkspage.net/technik/ssp/ssp/SSP_238.pdf)
 13. [How to read the CanBus in any car. (Can Bus) Part #1](https://www.youtube.com/watch?v=lkBILe55LQ8&ab_channel=SYDiagnostics)
 14. [How to read the CanBus in any car. (Can Bus) Part #2](https://www.youtube.com/watch?v=yq2dmbHODQc&ab_channel=SouthWestEVUK)
+15. [How to hack your car | Part 1 - The basics of the CAN bus](https://www.youtube.com/watch?v=cAAzXM5vsi0&ab_channel=AdamVarga)
+16. [How to hack your car | Part 2 - CAN Sniffer app](https://www.youtube.com/watch?v=ZhYc95b6WoU&ab_channel=AdamVarga)
+17. [How to hack your car | Part 2 - CAN Sniffer app](https://www.youtube.com/watch?v=ZhYc95b6WoU&ab_channel=AdamVarga)
+18. [How to hack your car | Part 3 - Reverse-engineering examples](https://www.youtube.com/watch?v=ifjCRsCPfa4&ab_channel=AdamVarga)
