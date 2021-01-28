@@ -1,9 +1,6 @@
 # UPM-SDPR
 Autonomous Robot
 
-<span style="color:blue">some *blue* text</span>
-<span style="color:blue">some *This is Blue italic.* text</span>
-
 ## Robots (Vehicles)
 1. Collector (Loose Fruit)
 2. Grabber (Fresh Fruit Bunch)
