@@ -64,7 +64,6 @@ AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 2. [Why Honda Developed an Autonomous ATV - CES 2019](https://www.youtube.com/watch?v=k09CF7F-KrY&ab_channel=AutolineNetwork)
 3. [Configurable control zone software for the RC12-10 controller](https://www.youtube.com/watch?v=aHdKZtTBqj0&ab_channel=BoschRexrothUS)
 4. [[EN] Explaining BODAS Hardware – Controllers](https://www.youtube.com/watch?v=6eW0iCzKrAg&ab_channel=BoschRexroth)
-
 5. [Advanced-Real-Time-Self-Driving](https://github.com/sieuwe1/Advanced-Real-Time-Self-Driving)
 6. [(Part1) Autonomous Vehicle On Roads Using Ai Behavioral Cloning with END TO END, OpenCV, Python](https://www.youtube.com/watch?v=EJhPxmpPYtg&ab_channel=SieuweElferink)
 7. [(Part 2) How You Can Make A DIY Self Driving Vehicle with: Ai, Python, OpenCV and Road Detection!](https://www.youtube.com/watch?v=fH-g9boR2qA&ab_channel=SieuweElferink)
