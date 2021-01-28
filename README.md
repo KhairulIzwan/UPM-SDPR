@@ -61,3 +61,16 @@ AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 ## References
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
 2. [Why Honda Developed an Autonomous ATV - CES 2019](https://www.youtube.com/watch?v=k09CF7F-KrY&ab_channel=AutolineNetwork)
+3. [Configurable control zone software for the RC12-10 controller](https://www.youtube.com/watch?v=aHdKZtTBqj0&ab_channel=BoschRexrothUS)
+4. [[EN] Explaining BODAS Hardware – Controllers](https://www.youtube.com/watch?v=6eW0iCzKrAg&ab_channel=BoschRexroth)
+
+5. [Advanced-Real-Time-Self-Driving](https://github.com/sieuwe1/Advanced-Real-Time-Self-Driving)
+6. [(Part1) Autonomous Vehicle On Roads Using Ai Behavioral Cloning with END TO END, OpenCV, Python](https://www.youtube.com/watch?v=EJhPxmpPYtg&ab_channel=SieuweElferink)
+7. [(Part 2) How You Can Make A DIY Self Driving Vehicle with: Ai, Python, OpenCV and Road Detection!](https://www.youtube.com/watch?v=fH-g9boR2qA&ab_channel=SieuweElferink)
+8. [(Part 3): This is how I created a self driving vehicle using Ai and Python](https://www.youtube.com/watch?v=n0RhimFSIDw&ab_channel=SieuweElferink)
+9. [SIEUWE.EU](https://www.sieuwe.eu/)
+10. [How You Can Make a Fully Autonomous Self Driving Vehicle With Ai, Python and a Camera on a Budget](https://www.instructables.com/How-You-Can-Make-a-Fully-Autonomous-Self-Driving-V/)
+11. [Car to Arduino Communication: CAN Bus Sniffing and Broadcasting With Arduino](https://www.instructables.com/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/)
+12. [Data Exchange On The CAN Bus I](http://www.volkspage.net/technik/ssp/ssp/SSP_238.pdf)
+13. [How to read the CanBus in any car. (Can Bus) Part #1](https://www.youtube.com/watch?v=lkBILe55LQ8&ab_channel=SYDiagnostics)
+14. [How to read the CanBus in any car. (Can Bus) Part #2](https://www.youtube.com/watch?v=yq2dmbHODQc&ab_channel=SouthWestEVUK)
