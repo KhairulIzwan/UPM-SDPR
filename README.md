@@ -1,6 +1,8 @@
 # UPM-SDPR
 Autonomous Robot
 
+# Meeting No: 1 (14th January 2021)
+
 ## Robots (Vehicles)
 1. Collector (Loose Fruit)
 2. Grabber (Fresh Fruit Bunch)
@@ -58,6 +60,14 @@ Visual Perception | ID? | ID? | ID? | ID?
 Autonomous Navigation |ID? | ID? | ID? | ID?
 AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 
+**NOTES**
+Not building from scratch -- converting existing machines; trucks and systems ONLY!
+
+# Meeting No: 2 (28th January 2021)
+
+## Grabber (Fresh Fruit Bunch)
+Main target NOW!
+
 ## References
 ### Autonomous
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
@@ -80,3 +90,6 @@ AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 16. [How to hack your car | Part 2 - CAN Sniffer app](https://www.youtube.com/watch?v=ZhYc95b6WoU&ab_channel=AdamVarga)
 17. [How to hack your car | Part 2 - CAN Sniffer app](https://www.youtube.com/watch?v=ZhYc95b6WoU&ab_channel=AdamVarga)
 18. [How to hack your car | Part 3 - Reverse-engineering examples](https://www.youtube.com/watch?v=ifjCRsCPfa4&ab_channel=AdamVarga)
+
+### DL (Deep Learning)
+19. [Build a a budget PC for Deep Learning](https://pysource.com/2020/07/17/how-to-build-a-pc-for-deep-learning-on-a-budget/)
