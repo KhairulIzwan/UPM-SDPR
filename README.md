@@ -97,3 +97,7 @@ Main target NOW!
 ## Machinery
 20. [Solaris Power Sdn Bhd](http://www.solarispower.com.my/index.php?ws=productsbycat)
 
+## Tools
+21. [NVIDIA Jetson AGX Xavier Development Kit](https://my.cytron.io/p-nvidia-jetson-agx-xavier-developer-kit?search=NVIDIA%20jetson&description=1)
+
+
