@@ -93,3 +93,7 @@ Main target NOW!
 
 ### DL (Deep Learning)
 19. [Build a a budget PC for Deep Learning](https://pysource.com/2020/07/17/how-to-build-a-pc-for-deep-learning-on-a-budget/)
+
+## Machinery
+20. [Solaris Power Sdn Bhd](http://www.solarispower.com.my/index.php?ws=productsbycat)
+
