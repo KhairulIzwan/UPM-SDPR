@@ -102,5 +102,13 @@ Not building from scratch -- converting existing machininery but the systems **O
 
 ### Tools
 21. [NVIDIA Jetson AGX Xavier Development Kit](https://my.cytron.io/p-nvidia-jetson-agx-xavier-developer-kit?search=NVIDIA%20jetson&description=1)
+22. [Intel® NUC Mini PC](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html)
+23. [15.6-inch IPS 1920x1080 HDMI Display with Built-in Speaker](https://my.cytron.io/p-15p6-inch-ips-1920x1080-hdmi-display-built-in-speaker?search=hdmi%20display&description=1)
+24. [Jetson AGX Xavier Developer Kit](https://developer.nvidia.com/EMBEDDED/jetson-agx-xavier-developer-kit)
+25. [BODAS Controller](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/bodas-controllers/rc5-6-40)
+26. [Measuring adapter](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/ma)
+27. [Universal test box](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/tb3)
+28. [Cables and connectors](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/cables-and-connectors)
+
 
 
