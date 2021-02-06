@@ -109,6 +109,10 @@ Not building from scratch -- converting existing machininery but the systems **O
 26. [Measuring adapter](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/ma)
 27. [Universal test box](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/tb3)
 28. [Cables and connectors](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/cables-and-connectors)
+29. [Intel® RealSense™ Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/)
+
+### ETC
+30. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
 
 
 
