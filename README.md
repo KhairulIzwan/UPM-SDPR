@@ -61,14 +61,15 @@ Autonomous Navigation |ID? | ID? | ID? | ID?
 AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 
 **NOTES**
-Not building from scratch -- converting existing machines; trucks and systems ONLY!
+
+Not building from scratch -- converting existing machininery but the systems **ONLY!**
 
 ## Meeting No: 2 (28th January 2021)
 
+**Main target NOW!**
 ### Grabber (Fresh Fruit Bunch)
-Main target NOW!
 
-![NVIDIA TensorRT™](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
+![Proposed Idea Izwan](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
 
 ### References
 #### Autonomous
