@@ -68,6 +68,8 @@ Not building from scratch -- converting existing machines; trucks and systems ON
 ## Grabber (Fresh Fruit Bunch)
 Main target NOW!
 
+![NVIDIA TensorRT™](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
+
 ## References
 ### Autonomous
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
