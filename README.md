@@ -66,8 +66,8 @@ Not building from scratch -- converting existing machininery but the systems **O
 
 ## Meeting No: 2 (28th January 2021)
 
-**Main target NOW!**
-### Grabber (Fresh Fruit Bunch)
+**Priority!**
+#### Grabber (Fresh Fruit Bunch)
 
 ![Proposed Idea Izwan](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
 
