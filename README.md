@@ -1,16 +1,16 @@
 # UPM-SDPR
 Autonomous Robot
 
-# Meeting No: 1 (14th January 2021)
+## Meeting No: 1 (14th January 2021)
 
-## Robots (Vehicles)
+### Robots (Vehicles)
 1. Collector (Loose Fruit)
 2. Grabber (Fresh Fruit Bunch)
 3. Fertilizer
 4. Harvester
 
-## Team Members
-### UPM-SDPR
+### Team Members
+#### UPM-SDPR
 ID | Members | Roles/Tasks/Research Area |
 ------------ | ------------- | -------------
 1 | Dr Harikrishna Kulaveerasingam | 
@@ -47,12 +47,12 @@ ID | Members | Roles/Tasks/Research Area |
 32 | Postgraduate | 
 33 | Postgraduate | 
 
-### External
+#### External
 ID | Members | Roles/Tasks |
 ------------ | ------------- | -------------
 34 | Khairul Izwan Kamsani | 
 
-## Robot Components
+### Robot Components
 Components |Collector (Loose Fruit) | Grabber (Fresh Fruit Bunch) | Fertilizer | Harvester
 ------------ | ------------ | ------------- | ------------- | -------------
 Human-Robot Interaction | ID? | ID? | ID? | ID?
@@ -63,15 +63,15 @@ AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
 **NOTES**
 Not building from scratch -- converting existing machines; trucks and systems ONLY!
 
-# Meeting No: 2 (28th January 2021)
+## Meeting No: 2 (28th January 2021)
 
-## Grabber (Fresh Fruit Bunch)
+### Grabber (Fresh Fruit Bunch)
 Main target NOW!
 
 ![NVIDIA TensorRT™](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
 
-## References
-### Autonomous
+### References
+#### Autonomous
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
 2. [Why Honda Developed an Autonomous ATV - CES 2019](https://www.youtube.com/watch?v=k09CF7F-KrY&ab_channel=AutolineNetwork)
 3. [Configurable control zone software for the RC12-10 controller](https://www.youtube.com/watch?v=aHdKZtTBqj0&ab_channel=BoschRexrothUS)
@@ -83,7 +83,7 @@ Main target NOW!
 9. [SIEUWE.EU](https://www.sieuwe.eu/)
 10. [How You Can Make a Fully Autonomous Self Driving Vehicle With Ai, Python and a Camera on a Budget](https://www.instructables.com/How-You-Can-Make-a-Fully-Autonomous-Self-Driving-V/)
 
-### CAN (Control Area Networks)
+#### CAN (Control Area Networks)
 11. [Car to Arduino Communication: CAN Bus Sniffing and Broadcasting With Arduino](https://www.instructables.com/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/)
 12. [Data Exchange On The CAN Bus I](http://www.volkspage.net/technik/ssp/ssp/SSP_238.pdf)
 13. [How to read the CanBus in any car. (Can Bus) Part #1](https://www.youtube.com/watch?v=lkBILe55LQ8&ab_channel=SYDiagnostics)
@@ -93,13 +93,13 @@ Main target NOW!
 17. [How to hack your car | Part 2 - CAN Sniffer app](https://www.youtube.com/watch?v=ZhYc95b6WoU&ab_channel=AdamVarga)
 18. [How to hack your car | Part 3 - Reverse-engineering examples](https://www.youtube.com/watch?v=ifjCRsCPfa4&ab_channel=AdamVarga)
 
-### DL (Deep Learning)
+#### DL (Deep Learning)
 19. [Build a a budget PC for Deep Learning](https://pysource.com/2020/07/17/how-to-build-a-pc-for-deep-learning-on-a-budget/)
 
-## Machinery
+### Machinery
 20. [Solaris Power Sdn Bhd](http://www.solarispower.com.my/index.php?ws=productsbycat)
 
-## Tools
+### Tools
 21. [NVIDIA Jetson AGX Xavier Development Kit](https://my.cytron.io/p-nvidia-jetson-agx-xavier-developer-kit?search=NVIDIA%20jetson&description=1)
 
 
