@@ -10,7 +10,7 @@ Autonomous Robot
 	- [28th January 2021](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/materials/meetings/second/meet.md#meeting-no-2-28th-january-2021)
 - Robotics
 	- Collector (Loose Fruit)
-	- [Grabber (Fresh Fruit Bunch)](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+	- [Grabber (Fresh Fruit Bunch)](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/materials/grabber/info.md)
 	- Fertilizer
 	- Harvester
 
