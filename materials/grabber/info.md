@@ -13,4 +13,19 @@
 	
 ### Proposed Idea Izwan
 
+#### Concepts
 ![Proposed Idea Izwan](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
+
+
+#### UPM-SDPR
+Item | Members | Quantity |
+------------ | ------------- | -------------
+1 | Intel® NUC Mini PC | 1 
+2 | 15.6-inch IPS 1920x1080 HDMI Display with Built-in Speaker | 1 
+3 | Jetson AGX Xavier Developer Kit | 2 
+4 | Samsung SSD 970 EVO 250GB | 2
+5 | Intel® RealSenseTM Tracking Camera T265 | 2 
+6 | Electronic Hydraulic System | 1 
+7 | Rotary Absolute Encoder | 1 
+8 | Linear Absolute Encoder | 2 
+9 | Electrical — Power, Cables, etc... | 1

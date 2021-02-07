@@ -1,5 +1,5 @@
 # UPM-SDPR
-Autonomous Robot
+Industrial Autonomous Robot
 
 ## Table Of Content
 - [Team Members](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#team-members-rolestasksresearch-area)
