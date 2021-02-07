@@ -5,8 +5,8 @@ Autonomous Robot
 - [Team Members](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#team-members-rolestasksresearch-area)
 	- [UPM-SDPR](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#upm-sdpr)
 	- [External](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#external)
-- [Meetings]
-	- [14th January 2021](https://github.com/KhairulIzwan/trtexec-exploration#11-tensorrt)
+- Meetings
+	- [14th January 2021](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/materials/meetings/first/meet.md#meeting-no-1-14th-january-2021)
 	- [28th January 2021](https://github.com/KhairulIzwan/trtexec-exploration#12-trtexec)
 - [Robotics](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
 	- [Collector (Loose Fruit)](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
