@@ -13,3 +13,10 @@ Industrial Autonomous Robot
 	- [Grabber (Fresh Fruit Bunch)](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/materials/grabber/info.md)
 	- Fertilizer
 	- Harvester
+- [References]()
+	- [Autonomous]()
+	- [CAN (Control Area Networks)]
+	- [DL (Deep Learning)]
+	- [Machinery]
+	- [Tools]
+	- [ETC]
