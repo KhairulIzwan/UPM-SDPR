@@ -1,6 +1,17 @@
 # UPM-SDPR
 Autonomous Robot
 
+# Table Of Content
+- [Team Members](https://github.com/KhairulIzwan/trtexec-exploration#11-tensorrt)
+- [Meetings]
+	- [14th January 2021](https://github.com/KhairulIzwan/trtexec-exploration#11-tensorrt)
+	- [28th January 2021](https://github.com/KhairulIzwan/trtexec-exploration#12-trtexec)
+- [Robotics](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+	- [Collector (Loose Fruit)](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+	- [Grabber (Fresh Fruit Bunch)](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+	- [Fertilizer](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+	- [Harvester](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
+
 ## Meeting No: 1 (14th January 2021)
 
 ### Robots (Vehicles)
@@ -110,6 +121,7 @@ Not building from scratch -- converting existing machininery but the systems **O
 27. [Universal test box](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/tb3)
 28. [Cables and connectors](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/cables-and-connectors)
 29. [Intel® RealSense™ Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/)
+30. [NVIDIA Jetson AGX Xavier Developer Kit Initial Setup](https://www.youtube.com/watch?v=-nX8eD7FusQ&ab_channel=NVIDIADeveloper)
 
 ### ETC
 30. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
