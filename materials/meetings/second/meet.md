@@ -3,6 +3,3 @@
 **Priority!**
 
 Automated Grabber (Fresh Fruit Bunch)
-
-![Proposed Idea Izwan](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
-
