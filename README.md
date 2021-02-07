@@ -1,7 +1,7 @@
 # UPM-SDPR
 Autonomous Robot
 
-# Table Of Content
+## Table Of Content
 - [Team Members](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#team-members-rolestasksresearch-area)
 	- [UPM-SDPR](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#upm-sdpr)
 	- [External](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/teams.md#external)
