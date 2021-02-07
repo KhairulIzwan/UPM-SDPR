@@ -14,26 +14,6 @@ Autonomous Robot
 	- [Fertilizer](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
 	- [Harvester](https://github.com/KhairulIzwan/trtexec-exploration#how-to-run-trtexec)
 
-## Meeting No: 1 (14th January 2021)
-
-### Robots (Vehicles)
-1. Collector (Loose Fruit)
-2. Grabber (Fresh Fruit Bunch)
-3. Fertilizer
-4. Harvester
-
-### Robot Components
-Components |Collector (Loose Fruit) | Grabber (Fresh Fruit Bunch) | Fertilizer | Harvester
------------- | ------------ | ------------- | ------------- | -------------
-Human-Robot Interaction | ID? | ID? | ID? | ID?
-Visual Perception | ID? | ID? | ID? | ID?
-Autonomous Navigation |ID? | ID? | ID? | ID?
-AI, Machine Learning, Cloud Computing, Big Data | ID? | ID? | ID? | ID?
-
-**NOTES**
-
-Not building from scratch -- converting existing machininery but the systems **ONLY!**
-
 ## Meeting No: 2 (28th January 2021)
 
 **Priority!**
