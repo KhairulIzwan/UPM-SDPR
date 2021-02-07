@@ -10,7 +10,14 @@
 	- [Grabber (Fresh Fruit Bunch)](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/materials/grabber/info.md)
 	- Fertilizer
 	- Harvester
-
+- [References](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md)
+	- [Autonomous](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#autonomous)
+	- [CAN (Control Area Networks)](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#can-control-area-networks)
+	- [DL (Deep Learning)](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#dl-deep-learning)
+	- [Machinery](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#machinery)
+	- [Tools](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#tools)
+	- [ETC](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/reference.md#etc)
+	
 ### References
 #### Autonomous
 1. [Honda 3E-D18 Autonomous Self Driving ATV](https://www.youtube.com/watch?v=no7vPNSPYbY&ab_channel=DPCcars)
