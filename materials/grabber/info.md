@@ -21,8 +21,9 @@
 ### Proposed Idea Izwan
 
 #### Concepts
-![Proposed Idea Izwan](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
+![Setup](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
 
+![Flow](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabberFlow.png)
 
 #### Hardware Required
 Item | Members | Quantity | Unit Price | Cost
