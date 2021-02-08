@@ -25,16 +25,16 @@
 
 
 #### Hardware Required
-Item | Members | Quantity |
------------- | ------------- | -------------
+Item | Members | Quantity | Unit Price | Cost
+------------ | ------------- | ------------- | ------------- | -------------
 1 | Intel® NUC Mini PC | 1 
 2 | 15.6-inch IPS 1920x1080 HDMI Display with Built-in Speaker | 1 
 3 | Jetson AGX Xavier Developer Kit | 2 
 4 | Samsung SSD 970 EVO 250GB | 2
 5 | Wireless Wifi Network Card | 2 
-6 | Intel® RealSenseTM Tracking Camera T265 | 2 
+6 | Intel® RealSense™ Depth Camera D435i | 2 
 7 | Electronic Hydraulic System | 1 
 8 | Rotary Absolute Encoder | 1 
 9 | Linear Absolute Encoder | 2 
 10 | Electrical — Power, Cables, etc... | 1 
-
+11 | Workmanships | 1 

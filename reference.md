@@ -57,7 +57,8 @@
 27. [Universal test box](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/tb3)
 28. [Cables and connectors](https://www.boschrexroth.com/en/jp/products_8/product_groups_8/mobile_hydraulics/mobile-electronics/bodas-hardware/accessories/cables-and-connectors)
 29. [Intel® RealSense™ Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/)
-30. [NVIDIA Jetson AGX Xavier Developer Kit Initial Setup](https://www.youtube.com/watch?v=-nX8eD7FusQ&ab_channel=NVIDIADeveloper)
+30. [Intel® RealSense™ Depth Camera D435i](https://www.intelrealsense.com/depth-camera-d435i/)
+31. [NVIDIA Jetson AGX Xavier Developer Kit Initial Setup](https://www.youtube.com/watch?v=-nX8eD7FusQ&ab_channel=NVIDIADeveloper)
 
 ### ETC
-30. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
+32. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
