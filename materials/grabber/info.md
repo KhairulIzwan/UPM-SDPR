@@ -21,6 +21,8 @@
 ### Proposed Idea Izwan
 
 #### Concepts
+![Inspiration](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/wp3059190-dr-otto-octavius-wallpapers.jpg)
+
 ![Setup](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabber.png)
 
 ![Flow](https://github.com/KhairulIzwan/UPM-SDPR/blob/main/etc/AutomatedGrabberFlow.png)
