@@ -59,6 +59,7 @@
 29. [Intel® RealSense™ Tracking Camera T265](https://www.intelrealsense.com/tracking-camera-t265/)
 30. [Intel® RealSense™ Depth Camera D435i](https://www.intelrealsense.com/depth-camera-d435i/)
 31. [NVIDIA Jetson AGX Xavier Developer Kit Initial Setup](https://www.youtube.com/watch?v=-nX8eD7FusQ&ab_channel=NVIDIADeveloper)
+32. [Potentiometer Feedback Linear Actuator with Arduino](https://www.firgelliauto.com/blogs/tutorials/potentiometer-feedback-linear-actuator-with-arduino)
 
 ### ETC
 32. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
