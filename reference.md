@@ -62,3 +62,5 @@
 
 ### ETC
 32. [Doctor Octopus](https://www.sideshow.com/geek/10-greatest-spider-man-villains/)
+33. [Doctor Octopus](<a href="https://www.sideshow.com/geek/10-greatest-spider-man-villains/" target="_blank">external link</a>)
+<a href="https://www.sideshow.com/geek/10-greatest-spider-man-villains/" target="_blank">external link</a>
