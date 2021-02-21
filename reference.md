@@ -30,6 +30,9 @@
 8. [(Part 3): This is how I created a self driving vehicle using Ai and Python](https://www.youtube.com/watch?v=n0RhimFSIDw&ab_channel=SieuweElferink)
 9. [SIEUWE.EU](https://www.sieuwe.eu/)
 10. [How You Can Make a Fully Autonomous Self Driving Vehicle With Ai, Python and a Camera on a Budget](https://www.instructables.com/How-You-Can-Make-a-Fully-Autonomous-Self-Driving-V/)
+11. [Arduino Steer-by-Wire demo using Brushless BLDC motors FOC field oriented control](https://www.youtube.com/watch?v=kCHiuNaOTdY&ab_channel=RandomAccessProjects)
+12. [Tutorial DIY Steering Wheel, Shifter, and Pedals. Use mouse and Arduino](https://www.youtube.com/playlist?list=PLfmTHLP-fJJQ-kMxjrLQEvF9376NQchjJ)
+13. [Hand Brake or Parking Brake (Automobile)](https://what-when-how.com/automobile/hand-brake-or-parking-brake-automobile/)
 
 #### CAN (Control Area Networks)
 11. [Car to Arduino Communication: CAN Bus Sniffing and Broadcasting With Arduino](https://www.instructables.com/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/)
